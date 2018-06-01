@@ -4,7 +4,7 @@ Let's begin with understanding basic concepts of JavaScript.
 
 **Variables:** number, string, boolean, null, undefined, objects.
 
-![variable](/images/variable.png)To define a variable of any type use keyword.
+![variable](/manuscript/images/variable.png) To define a variable of any type use keyword.
 
 > `var nameOfVariable = (assignment operator) Value ;`
 >

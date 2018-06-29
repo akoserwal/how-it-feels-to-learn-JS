@@ -1,8 +1,8 @@
-# How it feels to learn JavaScript
+---
+description: JS book
+---
 
-![How it feels to learn JavaScript](/assets/jsbook-cover.png)
+# How it feels to learn JS
 
-This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+![](.gitbook/assets/jsbook-cover.png)
 
-
-[Table of Contents](toc.md#table-of-contents)

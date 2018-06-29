@@ -12,3 +12,7 @@
   * [Anonymous Function](js-eco-system/function-vs-method/anonymous-function.md)
 * [Scopes and keyword "this"](js-eco-system/scopes-and-keyword-this.md)
 
+## Dependencies / Packages Management
+
+* [npm](dependencies-packages-management/npm.md)
+

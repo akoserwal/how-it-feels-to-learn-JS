@@ -1,5 +1,5 @@
 ---
-description: JS book
+description: Book to provide a bird-eye view about the JS Eco-system
 ---
 
 # How it feels to learn JS

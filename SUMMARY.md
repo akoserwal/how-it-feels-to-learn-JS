@@ -10,4 +10,5 @@
 * [Objects](js-eco-system/objects.md)
 * [Function vs Method](js-eco-system/function-vs-method/README.md)
   * [Anonymous Function](js-eco-system/function-vs-method/anonymous-function.md)
+* [Scopes and keyword "this"](js-eco-system/scopes-and-keyword-this.md)
 

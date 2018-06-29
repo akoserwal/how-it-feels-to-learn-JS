@@ -8,4 +8,5 @@
 
 * [Basic Concepts](js-eco-system/basic-concepts.md)
 * [Objects](js-eco-system/objects.md)
+* [Function vs Method](js-eco-system/function-vs-method.md)
 

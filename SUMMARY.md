@@ -7,4 +7,5 @@
 ## JS Eco-System
 
 * [Basic Concepts](js-eco-system/basic-concepts.md)
+* [Objects](js-eco-system/objects.md)
 

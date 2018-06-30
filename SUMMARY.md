@@ -14,6 +14,6 @@
 
 ## Dependencies / Packages Management
 
-* [npm](dependencies-packages-management/npm.md)
+* [NPM](dependencies-packages-management/npm.md)
 * [Bower](dependencies-packages-management/bower.md)
 

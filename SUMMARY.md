@@ -15,6 +15,7 @@
 
 ## Dependencies / Packages Management
 
+* [Chapter: Dependencies / Package Management](dependencies-packages-management/dependencies-packages-management.md)
 * [NPM](dependencies-packages-management/npm.md)
 * [Bower](dependencies-packages-management/bower.md)
 

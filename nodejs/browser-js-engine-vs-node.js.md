@@ -1,4 +1,4 @@
-# Browser Js Engine vs Node.js
+# Browser vs Node.js
 
 Is same code can be executed in chrome javascript engine as well as in nodejs since both are based on v8 engine. Well yes & no, I am not trying to create confusing here, but although both are based out of v8 engine. Still there is a difference between the ways of handling javascript code.
 

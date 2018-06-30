@@ -16,5 +16,5 @@
 
 {% page-ref page="dependencies-packages-management/npm.md" %}
 
-
+{% page-ref page="dependencies-packages-management/bower.md" %}
 

@@ -1,7 +1,3 @@
----
-description: Node Package Manager
----
-
 # npm
 
 it is originated as a open source project for mange/package Node.js modules in 2009. It is a public registry allow to publish packages, download and provides a command line utility to interact with the registry & uses a standard JSON file named as 'package.json' to manage metadata for a project.

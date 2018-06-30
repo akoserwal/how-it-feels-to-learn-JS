@@ -1,7 +1,3 @@
----
-description: it is going away
----
-
 # Bower
 
 It is a cli tool based on npm for managing component like HTML, JS, CSS and fonts. It gives you flexibility to manage your dependencies without diving into node modules complexities keep an abstraction over it.

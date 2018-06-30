@@ -1,7 +1,7 @@
 # Table of contents
 
 * [How it feels to learn JS](README.md)
-* [Table of Contents](table-of-content.md)
+* [Table of Contents](table-of-contents.md)
 * [Introduction](introduction.md)
 
 ## JS Eco-System

@@ -4,7 +4,7 @@
 * [Table of Contents](table-of-contents.md)
 * [Introduction](introduction.md)
 
-## JS Eco-System
+## JS Basics
 
 * [Basic Concepts](js-eco-system/basic-concepts.md)
 * [Objects](js-eco-system/objects.md)

@@ -2,7 +2,7 @@
 
 {% page-ref page="introduction.md" %}
 
-#### JS ECO-SYSTEM
+#### JS Basics
 
 {% page-ref page="js-eco-system/basic-concepts.md" %}
 

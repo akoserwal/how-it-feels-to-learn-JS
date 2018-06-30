@@ -23,3 +23,8 @@
 
 * [Browser vs Node.js](nodejs/browser-js-engine-vs-node.js.md)
 
+## Super / Sub - Lang
+
+* [Chapter: Super / Sub Languages](super-sub-lang/chapter-super-sub-languages.md)
+* [TypeScript](super-sub-lang/typescript.md)
+

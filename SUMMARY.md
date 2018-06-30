@@ -26,5 +26,6 @@
 ## Super / Sub - Lang
 
 * [Chapter: Super / Sub Languages](super-sub-lang/chapter-super-sub-languages.md)
-* [TypeScript](super-sub-lang/typescript.md)
+* [TypeScript](super-sub-lang/typescript/README.md)
+  * [Architectural Overview](super-sub-lang/typescript/architectural-overview.md)
 

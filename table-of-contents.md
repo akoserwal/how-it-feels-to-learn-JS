@@ -1,6 +1,6 @@
 # Table of Contents
 
-{% page-ref page="introduction.md" %}
+{% page-ref page="introduction/" %}
 
 #### JS Basics
 

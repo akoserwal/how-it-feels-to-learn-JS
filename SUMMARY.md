@@ -2,7 +2,8 @@
 
 * [How it feels to learn JS](README.md)
 * [Table of Contents](table-of-contents.md)
-* [Introduction](introduction.md)
+* [Introduction](introduction/README.md)
+  * [Is EcmaScript is JavaScript? TC39](introduction/is-ecmascript-is-javascript-tc39.md)
 
 ## JS Basics
 

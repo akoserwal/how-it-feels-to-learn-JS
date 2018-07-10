@@ -29,3 +29,10 @@
 * [TypeScript](super-sub-lang/typescript/README.md)
   * [Architectural Overview](super-sub-lang/typescript/architectural-overview.md)
 
+## Framework / Library
+
+* [Angular](framework-library/angular/README.md)
+  * [Bootstrapping](framework-library/angular/bootstrapping.md)
+  * [Change Detection](framework-library/angular/change-detection.md)
+  * [Singleton Services](framework-library/angular/singleton-services.md)
+

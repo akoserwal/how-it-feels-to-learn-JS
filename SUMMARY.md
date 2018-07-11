@@ -35,4 +35,5 @@
   * [Bootstrapping](framework-library/angular/bootstrapping.md)
   * [Change Detection](framework-library/angular/change-detection.md)
   * [Singleton Services](framework-library/angular/singleton-services.md)
+* [React](framework-library/react.md)
 

@@ -16,6 +16,12 @@ var iterator = ["apple", "oranges", "banana"];
 var fruits = iterator[Symbol.iterator]();
 <:-undefined
 
+> fruits
+Array Iterator {}
+ƒ next()
+Symbol(Symbol.toStringTag)
+"Array Iterator"
+
 > fruits.next()
 <:-{value: "apple", done: false}
 

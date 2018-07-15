@@ -37,3 +37,8 @@
   * [Singleton Services](framework-library/angular/singleton-services.md)
 * [React](framework-library/react.md)
 
+## Paradigms
+
+* [Reactive](paradigms/reactive/README.md)
+  * [Rx.js](paradigms/reactive/rx.js.md)
+

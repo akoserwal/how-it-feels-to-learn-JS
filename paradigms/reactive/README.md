@@ -92,6 +92,83 @@ var Observer = function() {
   //"Observer 2 is notified!"
 ```
 
+### 
+
+### Let's try to combine both patterns
+
+```javascript
+var Subject = function() {
+  var self = this;
+  self.observers = [];
+
+  return {
+    subscribe: function(observer) {
+      self.observers.push(observer);
+    },
+    unsubscribe: function(observer) {
+      var index = self.observers.indexOf(observer);
+      if (index > -1) {
+        self.observers.splice(index, 1);
+      }
+    },
+    notify: function(observer) {
+      var index = self.observers.indexOf(observer);
+      if (index > -1) {
+        self.observers[index].notify(index);
+      }
+    },
+    notifyAll: function() {
+      for (var i = 0; i < self.observers.length; i++) {
+        self.observers[i].notify(i);
+      }
+    },
+    notifyIterator: function() {
+        var i = 0;
+        return {
+            next: function(){
+               return i < self.observers.length ?
+               {value: self.observers[i++].notify(i), done: false}:
+               {done: true};
+            }
+        };
+    }
+  };
+};
+
+var Observer = function() {
+    return {
+      notify: function(index) {
+        console.log("Observer " + (index) + " is notified!");
+      }
+    }
+  }
+  
+  var subject = new Subject();
+  
+  var observer1 = new Observer();
+  var observer2 = new Observer();
+
+
+  subject.subscribe(observer1);  
+  subject.subscribe(observer2);  
+  
+
+var it = subject.notifyIterator();
+ it.next().value;
+ it.next().value;
+ it.next().done;
+// output
+"Observer 1 is notified!"
+"Observer 2 is notified!"
+true
+```
+
+Try out: jsbin
+
+### 
+
+### 
+
 ### Observables:
 
 Observables helps in modeling 

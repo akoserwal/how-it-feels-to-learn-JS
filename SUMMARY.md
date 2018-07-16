@@ -42,3 +42,9 @@
 * [Reactive](paradigms/reactive/README.md)
   * [Rx.js](paradigms/reactive/rx.js.md)
 
+## Web API's
+
+* [Web Sockets](web-apis/web-sockets.md)
+* [Web Worker](web-apis/web-worker.md)
+* [Service Worker](web-apis/service-worker.md)
+

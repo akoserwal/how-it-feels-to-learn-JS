@@ -49,3 +49,13 @@ Uglify: As name suggest makes your code look ugily but optimized. it will not on
 
 If you don't want to deep dive into complexity of defining your javascript libaries as a node modules and use them in the manner similar to defining script tags. You can pick other solutions like bower/yarn/webpack. Although bower is going away.
 
+> #### Tips
+>
+> To start Debug session with npm:
+>
+> **DEBUG=\* npm cmd**
+>
+> **set DEBUG=\* npm cmd \(for windows\)**
+
+
+

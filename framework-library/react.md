@@ -10,6 +10,14 @@ Let's see how hello world looks like in react vs pure Javascript
 
 #### React 
 
+Base JS files imports:
+
+```markup
+ <script src="react.development.js"></script> 
+ <script src="react-dom.development.js"></script> 
+ <script src="babel-browser.min.js"></script>
+```
+
 ```markup
 // html
 <div id="root"></div>
@@ -17,10 +25,12 @@ Let's see how hello world looks like in react vs pure Javascript
 
 ```jsx
 //script
+<script type="text/babel">
 ReactDOM.render(
-  <h1>Hello, world!</h1>,
+  "Hello, world!",
   document.getElementById('root')
 );
+</script>
 ```
 
 > #### Vanilla JavaScript using DOM API
@@ -30,9 +40,13 @@ ReactDOM.render(
   var divTag = document.createElement("div"); 
   // and give it some content 
   var contentNode = document.createTextNode("Hello World"); 
-  // add the text node to the newly created root div
+  // add the text node to the newly created div
   divTag.appendChild(contentNode);  
+  // adding 'id' attribute with value "root" to div element. 
+  divTag.setAttribute('id', "root");
 ```
+
+
 
 
 

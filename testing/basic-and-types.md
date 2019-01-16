@@ -10,33 +10,33 @@
 
 
 
-### T**esting structure** 
+### T**esting Structure** 
 
-* [Mocha](https://mochajs.org/), 
-* [Jasmine](http://jasmine.github.io/), 
-* [Jest](https://facebook.github.io/jest/), 
+* [Mocha](https://mochajs.org/)
+* [Jasmine](http://jasmine.github.io/)
+* [Jest](https://facebook.github.io/jest/)
 * [Cucumber](https://github.com/cucumber/cucumber-jshttps://github.com/cucumber/cucumber-js)\*\*\*\*
 
-### **Assertions functions** 
+### **Assertions Functions** 
 
-* [Chai](http://chaijs.com/), 
-* [Jasmine](http://jasmine.github.io/), 
-* [Jest](https://facebook.github.io/jest/),
+* [Chai](http://chaijs.com/)
+* [Jasmine](http://jasmine.github.io/)
+* [Jest](https://facebook.github.io/jest/)
 *  [Unexpected](http://unexpected.js.org/)
 
 ### **Display and watch**
 
 * [Mocha](https://mochajs.org/), 
-* [Jasmine](http://jasmine.github.io/), 
-* [Jest](https://facebook.github.io/jest/),
+* [Jasmine](http://jasmine.github.io/)
+* [Jest](https://facebook.github.io/jest/)
 *  [Karma](https://karma-runner.github.io/)
 
 ### **Mocks, Spies, and Stubs** 
 
-* [Sinon](http://sinonjs.org/), 
-* [Jasmine](http://jasmine.github.io/), 
-* [enzyme](http://airbnb.io/enzyme/docs/api/), 
-* [Jest](https://facebook.github.io/jest/), 
+* [Sinon](http://sinonjs.org/)
+* [Jasmine](http://jasmine.github.io/)
+* [enzyme](http://airbnb.io/enzyme/docs/api/)
+* [Jest](https://facebook.github.io/jest/)
 * [testdouble](https://github.com/testdouble/testdouble.js)
 
 ###  **Code Coverage**

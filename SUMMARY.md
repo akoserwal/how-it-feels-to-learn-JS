@@ -50,5 +50,5 @@
 
 ## Testing
 
-* [Basic & types](testing/basic-and-types.md)
+* [Testing Essentials](testing/basic-and-types.md)
 

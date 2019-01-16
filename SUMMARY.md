@@ -48,3 +48,7 @@
 * [Web Worker](web-apis/web-worker.md)
 * [Service Worker](web-apis/service-worker.md)
 
+## Testing
+
+* [Basic & types](testing/basic-and-types.md)
+

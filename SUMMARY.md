@@ -12,6 +12,7 @@
 * [Function vs Method](js-eco-system/function-vs-method/README.md)
   * [Anonymous Function](js-eco-system/function-vs-method/anonymous-function.md)
 * [Scopes and keyword "this"](js-eco-system/scopes-and-keyword-this.md)
+* [Prototypical](js-eco-system/untitled.md)
 
 ## Dependencies / Packages Management
 
@@ -51,4 +52,8 @@
 ## Testing
 
 * [Testing Essentials](testing/basic-and-types.md)
+
+## Patterns
+
+* [IIFE \(Immediately Invoked Function Expression\)](patterns/iife-immediately-invoked-function-expression.md)
 
